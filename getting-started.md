@@ -66,6 +66,10 @@ This page is intended to help new comers boot up to  programming and then gradua
 *   [Essential C++ - Important C++ and OOPs Concepts](http://sunburn.stanford.edu/~nick/compdocs/Essential_C++.pdf)
 *   [Pointers in C Basics](http://cslibrary.stanford.edu/106/)
 *   [Pointers and Memory - Types, Allocation in C/C++](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf)
+*   [STL Documentation](http://www.cplusplus.com/reference/stl)
+*   [STL-Algorithm Documentation](http://www.cplusplus.com/reference/algorithm/)
+*   [TopCoder STL Tutorial Part 1](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1)
+*   [TopCoder STL Tutorial Part 2](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2)
 
 ### Java
 
@@ -100,7 +104,7 @@ Do you know better resources that are not included on this page?
 - Please read [Contributing to this repository](https://github.com/directi/codechef-resources/wiki/Contribution)
 - First [fork the repo](https://github.com/anup/codechef-resources) 
 - You can add links of different sources on different topics.
-- You can also create topics and add diffrent resources to it.
+- You can also create topics and add different resources to it.
 - Make sure that links that you provide are related to the topic!
 - send us a [pull request](https://help.github.com/articles/using-pull-requests). 
 - We will also be happy to add Collaborators to the projects. Feel free to edit the "getting started.md" and "getting-started.html" file and start contributing. 
